@@ -2,6 +2,7 @@ name: jngridtest
 favicon: null
 layout_spectrum: 0.00132
 typography_spectrum: 0.88522
+title: Test
 cta:
   domain: null
   bucket: null
